@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tml" type="HTML" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
+      <mapping pattern="RunScala" type="Scala" />
+      <removed_mapping ext="tml" type="TML" />
+    </extensionMap>
+  </component>
+</application>
