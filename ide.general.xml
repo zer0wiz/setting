@@ -7,5 +7,7 @@
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="ide.tooltip.initialDelay" value="994" />
+    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
