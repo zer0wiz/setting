@@ -1,2 +1,0 @@
-# setting
-Idea Setting
